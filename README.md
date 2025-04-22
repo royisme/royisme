@@ -66,8 +66,10 @@ From building social networking platforms and gaming systems to developing enter
 
 ---
 
-![Profile Visitors]![Profile Visitors](https://komarev.com/ghpvc/?username=royisme&color=blueviolet&style=flat-square&label=Profile%20Visitors)
+
 ![Roy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=royisme&theme=react-dark&area=true&hide_border=true&point=000000&color=000000&line=000000)
 ![Roy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=royisme&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 ![Roy's github trophy](https://github-profile-trophy.vercel.app/?username=royisme&theme=radical&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
 
+---
+![Profile Visitors](https://komarev.com/ghpvc/?username=royisme&color=blueviolet&style=flat-square&label=Profile%20Visitors)
