@@ -85,7 +85,45 @@ const roy = {
 
 <!-- FEATURED_PROJECTS_START -->
 
-*Loading featured projects... This section will be automatically updated by GitHub Actions.*
+### 🐍 [codebase-rag](https://github.com/royisme/codebase-rag)
+**Python**
+
+Enterprise knowledge management platform with Neo4j graph database, multi-interface   architecture (MCP/Web/REST), and intelligent code analysis
+
+- ⭐ **6** stars | 🔀 **1** forks
+- 📅 Last updated: November 2025
+
+---
+
+### 🔷 [codebase-knowledge](https://github.com/royisme/codebase-knowledge)
+**TypeScript**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: November 2025
+
+---
+
+### 🐍 [CoPal](https://github.com/royisme/CoPal)
+**Python**
+
+CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: November 2025
+
+---
+
+### 📦 [picx-images-hosting](https://github.com/royisme/picx-images-hosting)
+**Various Technologies**
+
+PicX images hosting repository
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: June 2025
+
+---
 
 <!-- FEATURED_PROJECTS_END -->
 
