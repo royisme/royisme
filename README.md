@@ -81,31 +81,13 @@ const roy = {
 
 ## 🌟 Featured Projects
 
-### 🏭 Manufacturing Visualization System (MVS)
-**Vue.js • Django REST • Python • PaddleOCR**
+> 🤖 *Auto-updated weekly based on repository activity and engagement*
 
-A comprehensive real-time monitoring system for dairy fermentation processes featuring:
-- 📊 Live data visualization with Vue.js frontend
-- 🔄 RESTful API backend with Django
-- 🤖 Automated OCR solution extracting data from legacy LCD displays
-- ⚡ Real-time monitoring capabilities for critical manufacturing processes
+<!-- FEATURED_PROJECTS_START -->
 
-**Impact:** Transformed manual data collection into automated digital monitoring, improving operational efficiency and data accuracy.
+*Loading featured projects... This section will be automatically updated by GitHub Actions.*
 
----
-
-### ♻️ Digital Waste Management Solution
-**Microsoft 365 • Power Platform • Custom Analytics**
-
-End-to-end digital waste management system addressing SAP implementation gaps:
-- 🔗 Seamless Microsoft 365 ecosystem integration
-- 📈 Custom analytics dashboards for waste pattern visibility
-- 💼 Tailored solution for manufacturing client requirements
-- 📊 Real-time reporting and insights
-
-**Impact:** Provided manufacturing client with critical visibility into material waste patterns, enabling data-driven decision making.
-
----
+<!-- FEATURED_PROJECTS_END -->
 
 ## 🏆 Achievements
 
