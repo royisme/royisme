@@ -20,7 +20,7 @@
 ```typescript
 const roy = {
     location: "Waterloo, ON, Canada 🇨🇦",
-    role: "Software Engineer @ SMART Centre, Conestoga College",
+    role: "Software Engineer",
     experience: "16+ years",
     focus: ["System Architecture", "Full-Stack Development", "Cloud Solutions", "Data Engineering"],
     background: "Startups → Enterprises → Digital Transformation",
