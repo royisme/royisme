@@ -77,8 +77,8 @@ class GitHubProjectUpdater:
         if updated_at:
             updated_date = datetime.fromisoformat(updated_at.replace('Z', '+00:00'))
             days_since_update = (datetime.now(timezone.utc) - updated_date).days
-            # More recent = higher score (max 100 for today, decreases over time)
-            recency_score = max(0, 100 - (days_since_update / 3.65))  # Decay over ~1 year
+            # More recent = higher score (max 100 for today, decreases linearly to 0 after 1 year)
+            recency_score = max(0, 100 - days_since_update * (100 / 365))  # Decay over ~1 year
         else:
             recency_score = 0
 
@@ -230,8 +230,10 @@ class GitHubProjectUpdater:
 def main():
     """Main execution function."""
     # Get configuration from environment
-    username = os.environ.get("GITHUB_REPOSITORY", "").split("/")[0]
-    if not username:
+    github_repository = os.environ.get("GITHUB_REPOSITORY", "")
+    if github_repository and "/" in github_repository:
+        username = github_repository.split("/")[0]
+    else:
         username = os.environ.get("GITHUB_ACTOR", "")
 
     if not username:
