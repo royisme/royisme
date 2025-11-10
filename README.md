@@ -1,75 +1,201 @@
-# 👋 Hi, I'm Roy (Shaoqing) Zhu
+<div align="center">
 
-> *Experienced Software Engineer with 16+ years building scalable enterprise systems*
+<!-- Dynamic Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=38BDF8&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Roy+(Shaoqing)+Zhu;Software+Engineer+%7C+16%2B+Years+Experience;Full-Stack+Developer+%7C+System+Architect;Cloud+%26+Data+Solutions+Specialist" alt="Typing SVG" />
 
-## 🚀 About Me
+<h3>🚀 Building scalable enterprise systems that drive business value</h3>
 
-I'm a seasoned Software Engineer based in **Waterloo, ON, Canada**, with extensive experience in full-stack development, backend services, cloud infrastructure, and data solutions. Currently leveraging my technical expertise at the SMART Centre at Conestoga College, where I lead digital transformation projects and develop innovative solutions for industry partners.
+<p>
+  <a href="https://linkedin.com/in/shaoqing-zhu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imroybox@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=royisme&color=38bdf8&style=for-the-badge&label=Profile+Views" />
+</p>
 
-With a background spanning startups to large enterprises across multiple countries, I specialize in architecting scalable systems, transforming monolithic applications to microservices, and implementing data-driven solutions that drive business value.
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const roy = {
+    location: "Waterloo, ON, Canada 🇨🇦",
+    role: "Software Engineer @ SMART Centre, Conestoga College",
+    experience: "16+ years",
+    focus: ["System Architecture", "Full-Stack Development", "Cloud Solutions", "Data Engineering"],
+    background: "Startups → Enterprises → Digital Transformation",
+    passion: "Building scalable systems that solve real-world problems"
+};
+```
+
+**🎯 What I Do:**
+- 🏗️ Architect scalable microservices and cloud-native applications
+- 🔄 Transform monolithic systems into modern distributed architectures
+- 📊 Develop data-driven solutions with real-time analytics
+- 👥 Lead technical teams and mentor developers
+- 🚀 Drive digital transformation initiatives for industry partners
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,php,cs,html,css" alt="Languages" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,webpack,vite" alt="Frontend" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,dotnet,fastapi" alt="Backend" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,githubactions" alt="Cloud & DevOps" />
+</p>
+
+### 🗄️ Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,nginx,linux" alt="Databases" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=royisme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royisme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royisme&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏭 Manufacturing Visualization System (MVS)
+**Vue.js • Django REST • Python • PaddleOCR**
+
+A comprehensive real-time monitoring system for dairy fermentation processes featuring:
+- 📊 Live data visualization with Vue.js frontend
+- 🔄 RESTful API backend with Django
+- 🤖 Automated OCR solution extracting data from legacy LCD displays
+- ⚡ Real-time monitoring capabilities for critical manufacturing processes
+
+**Impact:** Transformed manual data collection into automated digital monitoring, improving operational efficiency and data accuracy.
+
+---
+
+### ♻️ Digital Waste Management Solution
+**Microsoft 365 • Power Platform • Custom Analytics**
+
+End-to-end digital waste management system addressing SAP implementation gaps:
+- 🔗 Seamless Microsoft 365 ecosystem integration
+- 📈 Custom analytics dashboards for waste pattern visibility
+- 💼 Tailored solution for manufacturing client requirements
+- 📊 Real-time reporting and insights
+
+**Impact:** Provided manufacturing client with critical visibility into material waste patterns, enabling data-driven decision making.
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=royisme&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=royisme&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ff6b6b&area=true&area_color=38bdf8" alt="Activity Graph" />
+</div>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="50%">
+
+**Graduate Certificate**
+📚 Digital Solutions Management
+🏫 Conestoga College, ON
+📅 2023-2024
+
+</td>
+<td width="50%">
+
+**Bachelor's Degree**
+📚 Computer Science & Technology
+🏫 Huazhong University of Science and Technology
+📅 2003-2008
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💼 Professional Journey
 
 ```mermaid
-graph LR
-    A[16+ Years Experience] --> B[System Architecture]
-    A --> C[Technical Leadership]
-    A --> D[Full-Stack Development]
-    A --> E[Data Solutions]
-    B --> F[Microservices]
-    C --> G[Team Building]
-    D --> H[Modern Tech Stack]
-    E --> I[Real-time Analytics]
+%%{init: {'theme':'dark'}}%%
+timeline
+    title Career Highlights
+    section Early Career
+        2008-2014 : Social Networks & Gaming
+                  : Built platforms serving millions
+    section Growth
+        2014-2019 : Enterprise CRM Solutions
+                  : Led technical teams
+                  : Microservices architecture
+    section Leadership
+        2019-Present : Digital Transformation
+                     : Smart Manufacturing
+                     : Cloud & Data Solutions
 ```
 
-## 🛠️ Technical Skills
-
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-
-## 🌟 Recent Projects
-
-### Manufacturing Visualization System (MVS)
-- Led development of a complete MVS using Vue.js frontend and Django REST backend
-- Implemented real-time monitoring capabilities for dairy fermentation processes
-- Engineered an automated OCR solution using Python and PaddleOCR to extract data from legacy LCD displays
-
-### Digital Waste Management Solution
-- Designed and implemented a complete digital waste management system for a manufacturing client
-- Integrated with Microsoft 365 ecosystem to address gaps in existing SAP implementation
-- Created custom analytics dashboards to provide visibility into material waste patterns
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royisme&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royisme&layout=compact&theme=tokyonight)
-
-## 🎓 Education
-
-- **Graduate Certificate in Digital Solutions Management**  
-  Conestoga College, ON, Canada (2023-2024)
-  
-- **Bachelor's Degree in Computer Science and Technology**  
-  Huazhong University of Science and Technology, China (2003-2008)
-
-## 🔄 Professional Evolution
-
-From building social networking platforms and gaming systems to developing enterprise-scale CRM solutions and manufacturing visualization systems, my career spans diverse industries and technologies. I've successfully led digital transformation initiatives and built systems serving millions of users.
-
-## 📫 Let's Connect
-
-<a href="https://linkedin.com/in/shaoqing-zhu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:imroybox@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+**Career Highlights:**
+- 🌐 Built social networking platforms and gaming systems
+- 🏢 Developed enterprise-scale CRM solutions
+- 🏭 Created smart manufacturing and IoT solutions
+- ☁️ Led cloud migration and digital transformation projects
+- 👥 Mentored teams across multiple countries and cultures
 
 ---
 
+## 🔥 Recent Activity
 
-![Roy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=royisme&theme=react-dark&area=true&hide_border=true&point=000000&color=000000&line=000000)
-![Roy's github streak](https://github-readme-streak-stats.herokuapp.com/?user=royisme&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![Roy's github trophy](https://github-profile-trophy.vercel.app/?username=royisme&theme=radical&row=1&column=5&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
-![Profile Visitors](https://komarev.com/ghpvc/?username=royisme&color=blueviolet&style=flat-square&label=Profile%20Visitors)
+
+<div align="center">
+
+### 💬 Let's Connect & Collaborate!
+
+I'm always interested in discussing new opportunities, interesting projects, or tech innovations.
+
+<p>
+  <a href="https://linkedin.com/in/shaoqing-zhu"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imroybox@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<sub>⭐️ From [royisme](https://github.com/royisme) | Built with ❤️ using modern GitHub Profile tools</sub>
+
+</div>
