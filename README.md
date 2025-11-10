@@ -69,12 +69,12 @@ const roy = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=royisme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royisme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=royisme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&card_width=400" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royisme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&card_width=400" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royisme&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=royisme&theme=tokyonight&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=ff6b6b&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 ---
