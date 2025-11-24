@@ -115,10 +115,10 @@ homebrew-tap repo
 
 ---
 
-### 📦 [tapioca](https://github.com/royisme/tapioca)
-**Various Technologies**
+### 🐍 [CoPal](https://github.com/royisme/CoPal)
+**Python**
 
-tapioca is so cute
+CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: November 2025
