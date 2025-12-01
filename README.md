@@ -95,6 +95,16 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🔷 [codebase-knowledge](https://github.com/royisme/codebase-knowledge)
+**TypeScript**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: November 2025
+
+---
+
 ### 🐹 [BobaMixer](https://github.com/royisme/BobaMixer)
 **Go • Agent Wrapper • Claude Code • Codex Cli Gui • Gemini Cli • Opitmization**
 
@@ -109,16 +119,6 @@ BobaMixer is a comprehensive CLI tool for managing multiple AI providers, tracki
 **Ruby**
 
 homebrew-tap repo
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: November 2025
-
----
-
-### 🐍 [CoPal](https://github.com/royisme/CoPal)
-**Python**
-
-CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: November 2025
