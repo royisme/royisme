@@ -95,6 +95,26 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🔷 [freelance-flow](https://github.com/royisme/freelance-flow)
+**TypeScript**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: December 2025
+
+---
+
+### 🔷 [ChromaDesign](https://github.com/royisme/ChromaDesign)
+**TypeScript**
+
+ChromaDesign
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: December 2025
+
+---
+
 ### 🐍 [CoPal](https://github.com/royisme/CoPal)
 **Python**
 
@@ -102,26 +122,6 @@ CoPal (Command-line Orchestration Playbook for AI coders) is a universal collabo
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: December 2025
-
----
-
-### 🔷 [codebase-knowledge](https://github.com/royisme/codebase-knowledge)
-**TypeScript**
-
-None
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: November 2025
-
----
-
-### 🐹 [BobaMixer](https://github.com/royisme/BobaMixer)
-**Go • Agent Wrapper • Claude Code • Codex Cli Gui • Gemini Cli • Opitmization**
-
-BobaMixer is a comprehensive CLI tool for managing multiple AI providers, tracking costs, and optimizing your AI workload routing. It features intelligent routing, real-time budget tracking, and comprehensive usage analytics.
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: November 2025
 
 ---
 
