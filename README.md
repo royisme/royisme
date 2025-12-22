@@ -95,12 +95,12 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
-### 🔷 [freelance-flow](https://github.com/royisme/freelance-flow)
-**TypeScript**
+### 💚 [freelance-flow](https://github.com/royisme/freelance-flow)
+**Vue**
 
 None
 
-- ⭐ **0** stars | 🔀 **0** forks
+- ⭐ **0** stars | 🔀 **1** forks
 - 📅 Last updated: December 2025
 
 ---
