@@ -95,7 +95,7 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
-### 💚 [freelance-flow](https://github.com/royisme/freelance-flow)
+### 💚 [tally](https://github.com/royisme/tally)
 **Vue**
 
 None
@@ -115,10 +115,10 @@ ChromaDesign
 
 ---
 
-### 🐍 [CoPal](https://github.com/royisme/CoPal)
+### 🐍 [Hippomem](https://github.com/royisme/Hippomem)
 **Python**
 
-CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
+None
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: December 2025
