@@ -95,33 +95,33 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
-### 💚 [tally](https://github.com/royisme/tally)
-**Vue**
-
-None
-
-- ⭐ **0** stars | 🔀 **1** forks
-- 📅 Last updated: December 2025
-
----
-
-### 🔷 [ChromaDesign](https://github.com/royisme/ChromaDesign)
-**TypeScript**
-
-ChromaDesign
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: December 2025
-
----
-
 ### 🐍 [Hippomem](https://github.com/royisme/Hippomem)
 **Python**
 
 None
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: December 2025
+- 📅 Last updated: January 2026
+
+---
+
+### 🐍 [groundhog](https://github.com/royisme/groundhog)
+**Python**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: January 2026
+
+---
+
+### 🐍 [agent-skills](https://github.com/royisme/agent-skills)
+**Python**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: January 2026
 
 ---
 
