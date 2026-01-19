@@ -95,30 +95,30 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🐍 [agent-skills](https://github.com/royisme/agent-skills)
+**Python**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: January 2026
+
+---
+
+### 🔷 [justplay](https://github.com/royisme/justplay)
+**TypeScript**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: January 2026
+
+---
+
 ### 🔷 [sanctum](https://github.com/royisme/sanctum)
 **TypeScript • Obsidian**
 
 A knowledge management system that combines cloud capture with local cultivation.
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: January 2026
-
----
-
-### 🐍 [Hippomem](https://github.com/royisme/Hippomem)
-**Python**
-
-None
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: January 2026
-
----
-
-### 🐍 [groundhog](https://github.com/royisme/groundhog)
-**Python**
-
-None
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: January 2026
