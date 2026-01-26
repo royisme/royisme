@@ -95,6 +95,16 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🔷 [eve](https://github.com/royisme/eve)
+**TypeScript**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: January 2026
+
+---
+
 ### 🐍 [agent-skills](https://github.com/royisme/agent-skills)
 **Python**
 
@@ -105,20 +115,10 @@ None
 
 ---
 
-### 🔷 [justplay](https://github.com/royisme/justplay)
+### 🔷 [eve-wall-e](https://github.com/royisme/eve-wall-e)
 **TypeScript**
 
 None
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: January 2026
-
----
-
-### 🔷 [sanctum](https://github.com/royisme/sanctum)
-**TypeScript • Obsidian**
-
-A knowledge management system that combines cloud capture with local cultivation.
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: January 2026
