@@ -90,13 +90,13 @@ const roy = {
 
 Enterprise knowledge management platform with Neo4j graph database, multi-interface   architecture (MCP/Web/REST), and intelligent code analysis
 
-- ⭐ **7** stars | 🔀 **1** forks
-- 📅 Last updated: December 2025
+- ⭐ **6** stars | 🔀 **1** forks
+- 📅 Last updated: January 2026
 
 ---
 
-### 🔷 [eve](https://github.com/royisme/eve)
-**TypeScript**
+### 🟨 [openclaw-warden](https://github.com/royisme/openclaw-warden)
+**JavaScript**
 
 None
 
@@ -115,7 +115,7 @@ None
 
 ---
 
-### 🔷 [eve-wall-e](https://github.com/royisme/eve-wall-e)
+### 🔷 [eve](https://github.com/royisme/eve)
 **TypeScript**
 
 None
