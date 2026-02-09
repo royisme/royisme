@@ -95,28 +95,28 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
-### 🟨 [openclaw-warden](https://github.com/royisme/openclaw-warden)
-**JavaScript**
+### 🐹 [vibebox](https://github.com/royisme/vibebox)
+**Go**
 
 None
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: January 2026
+- 📅 Last updated: February 2026
 
 ---
 
-### 🐍 [agent-skills](https://github.com/royisme/agent-skills)
+### 🐍 [mlx-local-server](https://github.com/royisme/mlx-local-server)
 **Python**
 
 None
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: January 2026
+- 📅 Last updated: February 2026
 
 ---
 
-### 🔷 [eve](https://github.com/royisme/eve)
-**TypeScript**
+### 🟨 [openclaw-warden](https://github.com/royisme/openclaw-warden)
+**JavaScript**
 
 None
 
