@@ -95,6 +95,26 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🔷 [sanctum](https://github.com/royisme/sanctum)
+**TypeScript • Obsidian**
+
+A knowledge management system that combines cloud capture with local cultivation.
+
+- ⭐ **1** stars | 🔀 **1** forks
+- 📅 Last updated: February 2026
+
+---
+
+### 🔷 [moziBot](https://github.com/royisme/moziBot)
+**TypeScript**
+
+None
+
+- ⭐ **1** stars | 🔀 **0** forks
+- 📅 Last updated: February 2026
+
+---
+
 ### 🐹 [vibebox](https://github.com/royisme/vibebox)
 **Go**
 
@@ -102,26 +122,6 @@ None
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: February 2026
-
----
-
-### 🐍 [mlx-local-server](https://github.com/royisme/mlx-local-server)
-**Python**
-
-None
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: February 2026
-
----
-
-### 🟨 [openclaw-warden](https://github.com/royisme/openclaw-warden)
-**JavaScript**
-
-None
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: January 2026
 
 ---
 
