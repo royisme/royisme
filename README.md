@@ -115,10 +115,10 @@ None
 
 ---
 
-### 🐹 [vibebox](https://github.com/royisme/vibebox)
-**Go**
+### 🟨 [showcase-kit](https://github.com/royisme/showcase-kit)
+**JavaScript • Automation • Demo • Developer Tools • Ffmpeg • Gif**
 
-None
+Reusable toolkit for automated terminal/UI demo recording and GIF generation with Playwright, VHS, and ffmpeg
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: February 2026
