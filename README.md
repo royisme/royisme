@@ -90,18 +90,8 @@ const roy = {
 
 Enterprise knowledge management platform with Neo4j graph database, multi-interface   architecture (MCP/Web/REST), and intelligent code analysis
 
-- ⭐ **6** stars | 🔀 **1** forks
+- ⭐ **6** stars | 🔀 **2** forks
 - 📅 Last updated: January 2026
-
----
-
-### 🔷 [sanctum](https://github.com/royisme/sanctum)
-**TypeScript • Obsidian**
-
-A knowledge management system that combines cloud capture with local cultivation.
-
-- ⭐ **1** stars | 🔀 **1** forks
-- 📅 Last updated: February 2026
 
 ---
 
@@ -111,6 +101,16 @@ A knowledge management system that combines cloud capture with local cultivation
 None
 
 - ⭐ **1** stars | 🔀 **0** forks
+- 📅 Last updated: February 2026
+
+---
+
+### 🔷 [sanctum](https://github.com/royisme/sanctum)
+**TypeScript • Obsidian**
+
+A knowledge management system that combines cloud capture with local cultivation.
+
+- ⭐ **1** stars | 🔀 **1** forks
 - 📅 Last updated: February 2026
 
 ---
