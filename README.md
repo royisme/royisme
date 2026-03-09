@@ -101,27 +101,27 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 None
 
 - ⭐ **1** stars | 🔀 **0** forks
-- 📅 Last updated: February 2026
+- 📅 Last updated: March 2026
 
 ---
 
-### 🔷 [sanctum](https://github.com/royisme/sanctum)
-**TypeScript • Obsidian**
+### 🔷 [mcp-task-relay](https://github.com/royisme/mcp-task-relay)
+**TypeScript • Mcp Server • Muilt Agents • Task Scheduler**
 
-A knowledge management system that combines cloud capture with local cultivation.
+MCP Task Relay is a production-ready Model Context Protocol (MCP) server that exposes a sophisticated scheduler/executor workflow for autonomous agents. Built with enterprise-grade reliability, it features an intelligent Ask/Answer protocol with cryptographic context verification, preventing context drift while reducing token usage by 95%+.
 
-- ⭐ **1** stars | 🔀 **1** forks
-- 📅 Last updated: February 2026
+- ⭐ **1** stars | 🔀 **0** forks
+- 📅 Last updated: March 2026
 
 ---
 
-### 🟨 [showcase-kit](https://github.com/royisme/showcase-kit)
-**JavaScript • Automation • Demo • Developer Tools • Ffmpeg • Gif**
+### 🐍 [qwen3-openai-server-manager](https://github.com/royisme/qwen3-openai-server-manager)
+**Python • Macos • Mlx • Openai Compatible • Paroquant • Qwen**
 
-Reusable toolkit for automated terminal/UI demo recording and GIF generation with Playwright, VHS, and ffmpeg
+Secondary development and production-oriented local manager for ParoQuant / Qwen3.5-4B-PARO OpenAI-compatible server
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: February 2026
+- 📅 Last updated: March 2026
 
 ---
 
