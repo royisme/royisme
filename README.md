@@ -105,10 +105,10 @@ None
 
 ---
 
-### 🔷 [mcp-task-relay](https://github.com/royisme/mcp-task-relay)
-**TypeScript • Mcp Server • Muilt Agents • Task Scheduler**
+### 🔷 [agent-skills](https://github.com/royisme/agent-skills)
+**TypeScript**
 
-MCP Task Relay is a production-ready Model Context Protocol (MCP) server that exposes a sophisticated scheduler/executor workflow for autonomous agents. Built with enterprise-grade reliability, it features an intelligent Ask/Answer protocol with cryptographic context verification, preventing context drift while reducing token usage by 95%+.
+None
 
 - ⭐ **1** stars | 🔀 **0** forks
 - 📅 Last updated: March 2026
@@ -120,7 +120,7 @@ MCP Task Relay is a production-ready Model Context Protocol (MCP) server that ex
 
 Secondary development and production-oriented local manager for ParoQuant / Qwen3.5-4B-PARO OpenAI-compatible server
 
-- ⭐ **0** stars | 🔀 **0** forks
+- ⭐ **1** stars | 🔀 **0** forks
 - 📅 Last updated: March 2026
 
 ---
