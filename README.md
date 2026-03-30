@@ -105,22 +105,22 @@ None
 
 ---
 
-### 🔷 [agent-skills](https://github.com/royisme/agent-skills)
-**TypeScript**
+### 🐍 [CoPal](https://github.com/royisme/CoPal)
+**Python**
 
-None
+CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
 
 - ⭐ **1** stars | 🔀 **0** forks
 - 📅 Last updated: March 2026
 
 ---
 
-### 🐍 [qwen3-openai-server-manager](https://github.com/royisme/qwen3-openai-server-manager)
-**Python • Macos • Mlx • Openai Compatible • Paroquant • Qwen**
+### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
+**TypeScript**
 
-Secondary development and production-oriented local manager for ParoQuant / Qwen3.5-4B-PARO OpenAI-compatible server
+AI-powered interview copilot and meeting assistant
 
-- ⭐ **1** stars | 🔀 **0** forks
+- ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: March 2026
 
 ---
