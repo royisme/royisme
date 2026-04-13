@@ -95,6 +95,16 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 💚 [tally](https://github.com/royisme/tally)
+**Vue**
+
+None
+
+- ⭐ **0** stars | 🔀 **1** forks
+- 📅 Last updated: April 2026
+
+---
+
 ### 🔷 [moziBot](https://github.com/royisme/moziBot)
 **TypeScript**
 
@@ -111,16 +121,6 @@ None
 CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
 
 - ⭐ **1** stars | 🔀 **0** forks
-- 📅 Last updated: March 2026
-
----
-
-### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
-**TypeScript**
-
-AI-powered interview copilot and meeting assistant
-
-- ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: March 2026
 
 ---
