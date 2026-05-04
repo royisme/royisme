@@ -85,6 +85,16 @@ const roy = {
 
 <!-- FEATURED_PROJECTS_START -->
 
+### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
+**TypeScript**
+
+AI-powered interview copilot and meeting assistant
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: April 2026
+
+---
+
 ### 🐍 [codebase-rag](https://github.com/royisme/codebase-rag)
 **Python**
 
@@ -109,16 +119,6 @@ None
 **TypeScript**
 
 None
-
-- ⭐ **1** stars | 🔀 **0** forks
-- 📅 Last updated: March 2026
-
----
-
-### 🐍 [CoPal](https://github.com/royisme/CoPal)
-**Python**
-
-CoPal (Command-line Orchestration Playbook for AI coders) is a universal collaboration framework designed for terminal-based AI coding assistants such as OpenAI Codex CLI, Anthropic Claude Code, GitHub Copilot CLI, and similar tools.
 
 - ⭐ **1** stars | 🔀 **0** forks
 - 📅 Last updated: March 2026
