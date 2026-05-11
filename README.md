@@ -86,12 +86,12 @@ const roy = {
 <!-- FEATURED_PROJECTS_START -->
 
 ### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
-**TypeScript**
+**TypeScript • Ai • Ai Assistant • Claude • Cluely Alternative • Electron**
 
-AI-powered interview copilot and meeting assistant
+Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: April 2026
+- 📅 Last updated: May 2026
 
 ---
 
