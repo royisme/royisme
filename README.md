@@ -85,6 +85,16 @@ const roy = {
 
 <!-- FEATURED_PROJECTS_START -->
 
+### ⚡ [qwen-ane-llm](https://github.com/royisme/qwen-ane-llm)
+**C++**
+
+High-performance LLM inference on Apple Neural Engine with OpenAI-compatible API
+
+- ⭐ **1** stars | 🔀 **0** forks
+- 📅 Last updated: May 2026
+
+---
+
 ### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
 **TypeScript • Ai • Ai Assistant • Claude • Cluely Alternative • Electron**
 
@@ -112,16 +122,6 @@ None
 
 - ⭐ **0** stars | 🔀 **1** forks
 - 📅 Last updated: April 2026
-
----
-
-### 🔷 [moziBot](https://github.com/royisme/moziBot)
-**TypeScript**
-
-None
-
-- ⭐ **1** stars | 🔀 **0** forks
-- 📅 Last updated: March 2026
 
 ---
 
