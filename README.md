@@ -95,6 +95,16 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🔷 [sakai](https://github.com/royisme/sakai)
+**TypeScript**
+
+None
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: June 2026
+
+---
+
 ### ⚡ [qwen-ane-llm](https://github.com/royisme/qwen-ane-llm)
 **C++**
 
@@ -111,16 +121,6 @@ High-performance LLM inference on Apple Neural Engine with OpenAI-compatible API
 None
 
 - ⭐ **0** stars | 🔀 **1** forks
-- 📅 Last updated: May 2026
-
----
-
-### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
-**TypeScript • Ai • Ai Assistant • Claude • Cluely Alternative • Electron**
-
-Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
-
-- ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: May 2026
 
 ---
