@@ -100,7 +100,7 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
-- ⭐ **1** stars | 🔀 **3** forks
+- ⭐ **1** stars | 🔀 **4** forks
 - 📅 Last updated: June 2026
 
 ---
