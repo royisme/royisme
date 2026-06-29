@@ -85,6 +85,16 @@ const roy = {
 
 <!-- FEATURED_PROJECTS_START -->
 
+### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
+**TypeScript • Ai • Ai Assistant • Claude • Cluely Alternative • Electron**
+
+Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
+
+- ⭐ **2** stars | 🔀 **5** forks
+- 📅 Last updated: June 2026
+
+---
+
 ### 🐍 [codebase-rag](https://github.com/royisme/codebase-rag)
 **Python**
 
@@ -92,16 +102,6 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 - ⭐ **6** stars | 🔀 **2** forks
 - 📅 Last updated: May 2026
-
----
-
-### 🔷 [pikabaka](https://github.com/royisme/pikabaka)
-**TypeScript • Ai • Ai Assistant • Claude • Cluely Alternative • Electron**
-
-Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
-
-- ⭐ **1** stars | 🔀 **4** forks
-- 📅 Last updated: June 2026
 
 ---
 
