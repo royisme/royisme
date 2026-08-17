@@ -90,7 +90,7 @@ const roy = {
 
 Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
-- ⭐ **10** stars | 🔀 **5** forks
+- ⭐ **13** stars | 🔀 **5** forks
 - 📅 Last updated: August 2026
 
 ---
@@ -100,8 +100,8 @@ Open-source AI interview copilot & meeting assistant. Real-time transcription, A
 
 Enterprise knowledge management platform with Neo4j graph database, multi-interface   architecture (MCP/Web/REST), and intelligent code analysis
 
-- ⭐ **6** stars | 🔀 **2** forks
-- 📅 Last updated: May 2026
+- ⭐ **7** stars | 🔀 **2** forks
+- 📅 Last updated: August 2026
 
 ---
 
