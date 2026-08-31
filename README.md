@@ -90,7 +90,7 @@ const roy = {
 
 Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
-- ⭐ **13** stars | 🔀 **5** forks
+- ⭐ **15** stars | 🔀 **5** forks
 - 📅 Last updated: August 2026
 
 ---
