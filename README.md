@@ -90,8 +90,8 @@ const roy = {
 
 Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
-- ⭐ **20** stars | 🔀 **6** forks
-- 📅 Last updated: September 2026
+- ⭐ **22** stars | 🔀 **6** forks
+- 📅 Last updated: October 2026
 
 ---
 
@@ -105,20 +105,20 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
+### 🔷 [relire](https://github.com/royisme/relire)
+**TypeScript**
+
+relire
+
+- ⭐ **0** stars | 🔀 **0** forks
+- 📅 Last updated: October 2026
+
+---
+
 ### 🐍 [membox](https://github.com/royisme/membox)
 **Python**
 
 Local knowledge graph + RAG memory layer for coding agents (research/experimental)
-
-- ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: June 2026
-
----
-
-### 🔷 [sakai](https://github.com/royisme/sakai)
-**TypeScript**
-
-None
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: June 2026
