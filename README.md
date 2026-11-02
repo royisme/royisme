@@ -90,8 +90,8 @@ const roy = {
 
 Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
-- ⭐ **30** stars | 🔀 **9** forks
-- 📅 Last updated: October 2026
+- ⭐ **32** stars | 🔀 **9** forks
+- 📅 Last updated: November 2026
 
 ---
 
@@ -111,7 +111,7 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 Open-source French reading & pronunciation trainer for TCF Canada — close reading, IPA, shadowing, AI pronunciation feedback and spaced repetition. Browser-only PWA.
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: October 2026
+- 📅 Last updated: November 2026
 
 ---
 
