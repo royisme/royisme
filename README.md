@@ -90,7 +90,7 @@ const roy = {
 
 Open-source AI interview copilot & meeting assistant. Real-time transcription, AI-suggested answers, screenshot reasoning. BYO API key, or run fully offline with Ollama. macOS + Windows.
 
-- ⭐ **32** stars | 🔀 **9** forks
+- ⭐ **35** stars | 🔀 **10** forks
 - 📅 Last updated: November 2026
 
 ---
@@ -105,10 +105,10 @@ Enterprise knowledge management platform with Neo4j graph database, multi-interf
 
 ---
 
-### 🔷 [relire](https://github.com/royisme/relire)
-**TypeScript • French Education • French Learning • Gemini • Ipa • Language Learning**
+### 🔷 [lingo](https://github.com/royisme/lingo)
+**TypeScript • Bilingual • Claude Code • Claude Code Plugin • I18N • Language Learning**
 
-Open-source French reading & pronunciation trainer for TCF Canada — close reading, IPA, shadowing, AI pronunciation feedback and spaced repetition. Browser-only PWA.
+Learn a language while you code: translations under your prompts and Claude's replies, plus a live preview while you type.
 
 - ⭐ **0** stars | 🔀 **0** forks
 - 📅 Last updated: November 2026
@@ -121,7 +121,7 @@ Open-source French reading & pronunciation trainer for TCF Canada — close read
 Local knowledge graph + RAG memory layer for coding agents (research/experimental)
 
 - ⭐ **0** stars | 🔀 **0** forks
-- 📅 Last updated: June 2026
+- 📅 Last updated: November 2026
 
 ---
 
